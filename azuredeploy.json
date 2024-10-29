@@ -47,7 +47,7 @@
       },
       "repoUrl": {
         "type": "string",
-        "defaultValue": "https://github.com/benalexkeen/kaibrach/streamlit-demo.git",
+        "defaultValue": "https://github.com/kaibrach/streamlit-demo.git",
         "metadata": {
           "description": "Git Repo URL"
         }
