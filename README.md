@@ -1,6 +1,6 @@
 # Documentation
 
-The blog post that accompanies this repository [can be found here on my website](https://benalexkeen.com/deploying-streamlit-applications-with-azure-app-services/).
+Information to Depoly Button can be found [can be found here](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button).
 
 # Deployment
 
